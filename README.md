@@ -21,7 +21,7 @@ Options:
 - **Method 1:** Download the Git repository and run `install.sh` with your favorite options, OR:
 - **Method 2:** Run the following command to automatically install a Paper server to your current working directory:
 ```
-wget -O - https://raw.githubusercontent.com/sh0tx420/mcinstaller/main/download.sh | bash
+bash <(wget -qO - https://raw.githubusercontent.com/sh0tx420/mcinstaller/main/download.sh)
 ```
 
 ### Features
