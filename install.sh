@@ -19,7 +19,7 @@ Options:
                     (vanilla, paper, purpur)
   -p, --preset      Select presets to install with extra features
                     (vanillasmpplus)
-  -o, --output      Where to download the server .jar file
+  -o, --output      Directory, where to install server (defaults to ./server/)
 \n\0
 EOF
 )
